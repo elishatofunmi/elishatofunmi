@@ -2,7 +2,8 @@
 
 <!--
 **elishatofunmi/elishatofunmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-**My name is Odemakinde Elisha, a graduate of Electronic/Electrical Engineering at Obafemi Awolowo University
+
+### My name is Odemakinde Elisha, a graduate of Electronic/Electrical Engineering at Obafemi Awolowo University
 
 Here are some ideas to get you started:
 
