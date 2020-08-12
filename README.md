@@ -1,6 +1,8 @@
 ### Hi there 👋
 
  My name is Odemakinde Elisha, a graduate of Electronic/Electrical Engineering at Obafemi Awolowo University. I am an machine learning engineer/researcher with 3 + years of practicing machine learning. My area of specialization is in computer vision. Quite a few of my research work relates to image processing techniques like  Fourier, Z-transforms and Laplacian. I have been able to apply them as image enhancement processes to research areas like super-resolution and real-time object detection/localization. Moreover, my research work has been able to practically illustrate mathematical models asssociated with image tranformation/feature detection. Furthermore, my research area expands into the field of Natural Language processing, with keen interest in language translation. 
+ 
+ I'm currently working on an interesting aspect of computer vision which is instance and semantic segmentation. Moreso, I am working on an area of NLP relating to musical decoding.
 
 <!--
 **elishatofunmi/elishatofunmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
