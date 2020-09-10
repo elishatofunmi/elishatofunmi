@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- My name is Odemakinde Elisha, a graduate of Electronic/Electrical Engineering at Obafemi Awolowo University. I am an machine learning engineer/researcher. My area of specialization is in computer vision. For instance, I have been able to apply my mathematical analysis to research areas like super-resolution and real-time object detection/localization. Furthermore, my research area expands into the field of Natural Language processing, with keen interest in language translation. 
+ My name is Odemakinde Elisha, a graduate of Electronic/Electrical Engineering at Obafemi Awolowo University. I am a machine learning engineer/researcher. My area of specialization is in computer vision. For instance, I have been able to apply my mathematical analysis to research areas like super-resolution and real-time object detection/localization. Furthermore, my research area expands into the field of Natural Language processing, with keen interest in language translation. 
  
  - 🔭 I'm currently working on an interesting aspect of computer vision which is instance and semantic segmentation. Moreso, I am working on an area of NLP relating to musical decoding.
  - 🌱 I’m currently learning the mathematical breakdown of sementic segmentation.
