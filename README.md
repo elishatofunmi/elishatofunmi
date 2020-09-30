@@ -7,6 +7,10 @@
  - 👯 I’m looking to collaborate on projects relating to object detection and segementation principles.
  - ⚡ Fun fact: I love innovations and I love exploring new ideas and technologies.
  
+### Research documentations/paper works
+
+Do check out my current research documentation and collage [here](https://github.com/elishatofunmi/ResearchDocumentation/blob/master/README.md)
+ 
 ### A few of my articles
 
 1. [Optimizer, losses and activation functions in fully connected neural networks.](https://medium.com/@elishatofunmi/optimizer-losses-and-activation-functions-in-fully-connected-neural-networks-e1958bc66121)
