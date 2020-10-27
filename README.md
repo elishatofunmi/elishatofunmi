@@ -13,12 +13,12 @@ Do check out my current research documentation and collage [here](https://github
  
 ### A few of my articles
 
-1. [Optimizer, losses and activation functions in fully connected neural networks.](https://medium.com/@elishatofunmi/optimizer-losses-and-activation-functions-in-fully-connected-neural-networks-e1958bc66121)
-2. [Transfer Functions for Machine Learning, Simplified](https://heartbeat.fritz.ai/transfer-functions-for-machine-learning-simplified-eff2fddd133b)
-3. [Filters as an image processing tool — part 1](https://medium.com/analytics-vidhya/filters-as-an-image-processing-tool-part-1-1700a925c105)
-4. [Overcoming overfitting in image classification using data augmentation](https://heartbeat.fritz.ai/overcoming-overfitting-in-image-classification-using-data-augmentation-9858c5cee986)
+1. [Real-time Object Detection using SSD MobileNet V2 on Video Streams](https://heartbeat.fritz.ai/real-time-object-detection-using-ssd-mobilenet-v2-on-video-streams-3bfc1577399c)
+2. [End-to-End Object Detection Using EfficientDet on Raspberry Pi 3 (Part 3)](https://heartbeat.fritz.ai/end-to-end-object-detection-using-efficientdet-on-raspberry-pi-3-part-3-2bd6a7a6614d)
+3. [End-to-end Object Detection Using EfficientDet on Raspberry Pi 3 (Part 2)](https://heartbeat.fritz.ai/end-to-end-object-detection-using-efficientdet-on-raspberry-pi-3-part-2-bb5133646630)
+4. [End-to-end object detection using EfficientDet on Raspberry Pi 3 (Part 1)](https://heartbeat.fritz.ai/end-to-end-object-detection-using-efficientdet-on-raspberry-pi-3-e4a0d3fe895b)
 5. [Regularization techniques for image processing using TensorFlow](https://heartbeat.fritz.ai/regularization-techniques-for-image-processing-using-tensorflow-56c5b365bc17)
-6. [Augmented Learning- The AI we desire.](https://medium.com/@elishatofunmi/augmented-learning-the-ai-we-desire-4334f0058f1a)
+6. [Overcoming overfitting in image classification using data augmentation](https://heartbeat.fritz.ai/overcoming-overfitting-in-image-classification-using-data-augmentation-9858c5cee986)
 
 
 Connect with me via
