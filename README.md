@@ -1,16 +1,11 @@
 ### Hi there 👋
 
- My name is Odemakinde Elisha, a graduate of Electronic/Electrical Engineering at Obafemi Awolowo University. I am a machine learning engineer/researcher. My area of specialization is in computer vision. For instance, I have been able to apply my mathematical analysis to research areas like super-resolution and real-time object detection/localization. Furthermore, my research area expands into the field of Natural Language processing, with keen interest in language translation. 
- 
- - 🔭 I'm currently working on an interesting aspect of computer vision which is instance and semantic segmentation. Moreso, I am working on an area of NLP relating to musical decoding.
- - 🌱 I’m currently learning the mathematical breakdown of sementic segmentation.
- - 👯 I’m looking to collaborate on projects relating to object detection and segementation principles.
- - ⚡ Fun fact: I love innovations and I love exploring new ideas and technologies.
- 
-### Research documentations/paper works
+ My name is Odemakinde Elisha, a graduate of Electronic/Electrical Engineering at Obafemi Awolowo University. I am a machine learning engineer/researcher. My area of specialization is in computer vision. 
+ - 🔭 I'm currently working on Music Decoding (interpretation and translation) and the application of computer vision to real-time analytics.
+ - 🌱 I’m currently learning the mathematical rudiments of vision.
+ - 👯 I’m looking to collaborate on projects relating to vision and language modelling.
+ - ⚡ Fun fact: I love maths.
 
-Do check out my current research documentation and collage [here](https://github.com/elishatofunmi/ResearchDocumentation/blob/master/README.md)
- 
 ### A few of my articles
 
 1. [Real-time Object Detection using SSD MobileNet V2 on Video Streams](https://heartbeat.fritz.ai/real-time-object-detection-using-ssd-mobilenet-v2-on-video-streams-3bfc1577399c)
