@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=elishatofunmi&color=green)
+
 ### Hi there 👋
 
  My name is Odemakinde Elisha, a graduate of Electronic/Electrical Engineering at Obafemi Awolowo University. I am an AI engineer/researcher. My area of specialization is in computer vision. 
