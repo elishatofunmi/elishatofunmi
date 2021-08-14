@@ -5,7 +5,7 @@
  - I’m currently working as a AI Engineer focused on sport analytics.
  - I'm currently researching on AI with respect to music decoding (interpretation and translation), furthermore, building state of the art application of computer vision to real-time analytics using Reinforcement learning.
  - I’m looking to collaborate on projects relating to AI based sport analytics using vision, language processing and state of the art reinforcement learning architectures.
- - Aim: Build optimized architectures with low-latency, fast inferencing/compute and real-time analytics.
+ - Aim: Build optimized architectures (scalable systems with state of the art technology), low-latency, fast inferencing/compute and real-time analytics.
  - Fun fact: I love maths and I implement it. 
 
 
@@ -15,8 +15,8 @@
 2. [End-to-End Object Detection Using EfficientDet on Raspberry Pi 3 (Part 3)](https://heartbeat.fritz.ai/end-to-end-object-detection-using-efficientdet-on-raspberry-pi-3-part-3-2bd6a7a6614d)
 3. [End-to-end Object Detection Using EfficientDet on Raspberry Pi 3 (Part 2)](https://heartbeat.fritz.ai/end-to-end-object-detection-using-efficientdet-on-raspberry-pi-3-part-2-bb5133646630)
 4. [End-to-end object detection using EfficientDet on Raspberry Pi 3 (Part 1)](https://heartbeat.fritz.ai/end-to-end-object-detection-using-efficientdet-on-raspberry-pi-3-e4a0d3fe895b)
-5. [Regularization techniques for image processing using TensorFlow](https://heartbeat.fritz.ai/regularization-techniques-for-image-processing-using-tensorflow-56c5b365bc17)
-6. [Overcoming overfitting in image classification using data augmentation](https://heartbeat.fritz.ai/overcoming-overfitting-in-image-classification-using-data-augmentation-9858c5cee986)
+
+check out for more on medium.
 
 
 Connect with me via
