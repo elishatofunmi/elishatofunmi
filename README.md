@@ -2,10 +2,12 @@
 ### Hi there 👋
 
  My name is Odemakinde Elisha. I am an AI engineer/researcher. My area of specialization is in edge intelligence.
- - 🔭 I'm currently researching on AI with respect to music decoding (interpretation and translation), furthermore, building state of the art application of computer vision to real-time analytics using Reinforcement learning.
- - 🌱 I’m currently working as a AI Engineer focused on sport analytics.
- - 👯 I’m looking to collaborate on projects relating to AI based sport analytics using vision, language processing and state of the art reinforcement learning architectures.
- - ⚡ Fun fact: I love maths and I implement maths.
+ - I’m currently working as a AI Engineer focused on sport analytics.
+ - I'm currently researching on AI with respect to music decoding (interpretation and translation), furthermore, building state of the art application of computer vision to real-time analytics using Reinforcement learning.
+ - I’m looking to collaborate on projects relating to AI based sport analytics using vision, language processing and state of the art reinforcement learning architectures.
+ - Aim: Build optimized architectures with low-latency, fast inferencing/compute and real-time analytics.
+ - Fun fact: I love maths and I implement it. 
+
 
 ### A few of my articles
 
