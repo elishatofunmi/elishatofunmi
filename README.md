@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I am an Innovative AI Engineer/researcher with 6 years of experience in application design, architectural road map, development, testing and production level deployment on GPUs and TPUs. I am experienced in writing efficient and reproducible codes and algorithms, as well as building and re-using complex neural networks. I do have a comprehensive/ practical understanding of applied ML in sports, health, fin-tech, agriculture and music. 
+I am an Innovative AI Engineer/researcher with experience in application design, architectural road map, development, testing and production level deployment on GPUs and TPUs. I am experienced in writing efficient and reproducible codes and algorithms, as well as building and re-using complex neural networks. I do have a comprehensive/ practical understanding of applied ML in sports, health, fin-tech, agriculture and music. 
 
 Fun facts about me, 
 - I speak 3 different musical instrument,
