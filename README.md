@@ -1,6 +1,9 @@
 
 ### Hi there 👋
 
-I am a full-stack innovative AI engineer / Scientist with an outstanding experience in AI relating to vision analytics. I am a skilled technical entrepreneur with proven experience in AI app conceptualization, scalable architectures, product development, testing and production level builds of AI systems on GPUs and TPUs. I am a passionate individual, determined and result oriented engineer who has served in the leadership capacity such as technical AI product lead, R/D lead, technical product manager, engineering manager and CTO. I am currently co-building Rectlabs Inc, an AI based research / product innovation company based in lagos, Nigeria. I am an AI advocate, I have and still involved in raising more data talents within the African ecosystem.
-
+I am a seasoned full-stack data and AI engineer with a proven track record of ensuring optimal workflow and efficient development of scalable AI architectures. 
+• Bringing forth an in-depth and strong R&D background in AI, I have been able to demonstrate technical abilities in converting research oriented ideas into user-centered solutions. 
+• Expert in designing and implementing cutting-edge cloud-based AI architectures for fast inference and low latency.
+• Results-oriented and well-versed in identifying technical challenges and providing optimal engineering solutions.
+• A strong team player with excellent collaboration skills, and a commitment to maximizing the development process within a organization.
 
